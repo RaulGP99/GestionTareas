@@ -18,6 +18,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>GestionTareasSrv</servlet-name>
-    <url-pattern>/GestionTareas</url-pattern>
+    <url-pattern>/GT</url-pattern>
   </servlet-mapping>
 </web-app>

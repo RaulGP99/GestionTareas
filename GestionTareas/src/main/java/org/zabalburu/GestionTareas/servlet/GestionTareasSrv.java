@@ -10,6 +10,7 @@ import java.io.IOException;
 /**
  * Servlet implementation class GestionTareasSrv
  */
+@WebServlet (name="GT2", value = "/GT2")
 public class GestionTareasSrv extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
