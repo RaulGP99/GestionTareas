@@ -14,7 +14,7 @@
     <description></description>
     <display-name>GestionTareasSrv</display-name>
     <servlet-name>GestionTareasSrv</servlet-name>
-    <servlet-class>org.zabalburu.GestionTareas.servlet.GestionTareasSrv</servlet-class>
+    <servlet-class>org.zabalburu.GestionTareas.dao.servlet.GestionTareasSrv</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>GestionTareasSrv</servlet-name>

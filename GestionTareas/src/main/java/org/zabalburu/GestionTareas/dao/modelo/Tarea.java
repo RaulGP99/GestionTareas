@@ -1,4 +1,4 @@
-package org.zabalburu.GestionTareas.modelo;
+package org.zabalburu.GestionTareas.dao.modelo;
 
 import java.util.Date;
 import java.util.List;

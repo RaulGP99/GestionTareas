@@ -1,9 +1,9 @@
-package org.zabalburu.GestionTareas;
+package org.zabalburu.GestionTareas.dao;
 
 import java.util.List;
 
-import org.zabalburu.GestionTareas.modelo.Empleado;
-import org.zabalburu.GestionTareas.modelo.Tarea;
+import org.zabalburu.GestionTareas.dao.modelo.Empleado;
+import org.zabalburu.GestionTareas.dao.modelo.Tarea;
 
 public interface TareasDao {
 	Empleado getEmpleado(Integer id);

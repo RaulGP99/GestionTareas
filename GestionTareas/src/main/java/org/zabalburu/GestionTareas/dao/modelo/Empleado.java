@@ -1,4 +1,4 @@
-package org.zabalburu.GestionTareas.modelo;
+package org.zabalburu.GestionTareas.dao.modelo;
 
 import java.util.List;
 
@@ -19,5 +19,12 @@ public class Empleado {
 	private String email;
 	private String password;
 	private List<Tarea> tareas;
+	
+	@Override
+	public String toString() {
+		return "Empleado [id=" + id + ", nombre=" + nombre + ", apellidos=" + apellidos + ", email=" + email
+				+ ", password=" + password + "]";
+	}
+	
 	
 }

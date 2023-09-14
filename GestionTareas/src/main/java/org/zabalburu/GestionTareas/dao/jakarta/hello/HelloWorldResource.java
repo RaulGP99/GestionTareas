@@ -1,4 +1,4 @@
-package org.zabalburu.GestionTareas.jakarta.hello;
+package org.zabalburu.GestionTareas.dao.jakarta.hello;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
